@@ -1,0 +1,251 @@
+fileFormatVersion: 2
+guid: 010e461319c6d3443a6e35c3631177f1
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: b_Hand_L
+    100002: b_Index01_L
+    100004: b_Index02_L
+    100006: b_Index03_L
+    100008: b_Middle_01_L
+    100010: b_Middle_02_L
+    100012: b_Middle_03_L
+    100014: b_Pinky_01_L
+    100016: b_Pinky_02_L
+    100018: b_Pinky_03_L
+    100020: b_Ring_01_L
+    100022: b_Ring_02_L
+    100024: b_Ring_03_L
+    100026: b_Thumb_01_L
+    100028: b_Thumb_02_L
+    100030: b_Thumb_03_L
+    100032: //RootNode
+    100034: SK_LeftHand
+    400000: b_Hand_L
+    400002: b_Index01_L
+    400004: b_Index02_L
+    400006: b_Index03_L
+    400008: b_Middle_01_L
+    400010: b_Middle_02_L
+    400012: b_Middle_03_L
+    400014: b_Pinky_01_L
+    400016: b_Pinky_02_L
+    400018: b_Pinky_03_L
+    400020: b_Ring_01_L
+    400022: b_Ring_02_L
+    400024: b_Ring_03_L
+    400026: b_Thumb_01_L
+    400028: b_Thumb_02_L
+    400030: b_Thumb_03_L
+    400032: //RootNode
+    400034: SK_LeftHand
+    2100000: lambert2
+    4300000: SK_LeftHand
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: SK_LeftHand
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton:
+    - name: SK_Glove_L_Rigged(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: SK_LeftHand
+      parentName: SK_Glove_L_Rigged(Clone)
+      position: {x: -0.011936302, y: 0.06999242, z: 0.009156065}
+      rotation: {x: 0.000000021855694, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: b_Hand_L
+      parentName: SK_Glove_L_Rigged(Clone)
+      position: {x: 0.002512156, y: -0.082029015, z: -0.00767395}
+      rotation: {x: 0.08848059, y: 0.08698885, z: -0.70758826, w: 0.6956458}
+      scale: {x: 1, y: 1, z: 1}
+    - name: b_Thumb_03_L
+      parentName: b_Hand_L
+      position: {x: -0.092658594, y: -0.045458257, z: -0.008911532}
+      rotation: {x: 0.0022186313, y: -0.24187002, z: 0.29859778, w: 0.923219}
+      scale: {x: 0.9999999, y: 1, z: 1}
+    - name: b_Thumb_02_L
+      parentName: b_Thumb_03_L
+      position: {x: -0.060929168, y: -0.0000000023702158, z: 0.0000000022128939}
+      rotation: {x: -0.12407609, y: -0.6119819, z: 0.68854755, w: 0.3687621}
+      scale: {x: 0.9999999, y: 0.9999999, z: 1}
+    - name: b_Thumb_01_L
+      parentName: b_Thumb_02_L
+      position: {x: -0.03373212, y: -0.000000004187459, z: 0.00000000471636}
+      rotation: {x: -0.0071784346, y: -0.04893396, z: -0.11618906, w: 0.991995}
+      scale: {x: 1, y: 1, z: 1}
+    - name: b_Ring_03_L
+      parentName: b_Hand_L
+      position: {x: -0.1919487, y: 0.020275919, z: -0.01251428}
+      rotation: {x: -0.039851744, y: -0.15472205, z: -0.018007923, w: 0.9869897}
+      scale: {x: 1, y: 1, z: 0.9999999}
+    - name: b_Ring_02_L
+      parentName: b_Ring_03_L
+      position: {x: -0.0399232, y: -0.000000007860363, z: 2.472188e-10}
+      rotation: {x: -0.0013492685, y: -0.11697595, z: -0.0066061784, w: 0.99311185}
+      scale: {x: 1, y: 1, z: 1}
+    - name: b_Ring_01_L
+      parentName: b_Ring_02_L
+      position: {x: -0.03107569, y: -3.608875e-11, z: 0.0000000037706878}
+      rotation: {x: 0.0015394184, y: -0.13389039, z: 0.009602859, w: 0.99094844}
+      scale: {x: 1, y: 1, z: 1}
+    - name: b_Pinky_03_L
+      parentName: b_Hand_L
+      position: {x: -0.1782068, y: 0.04699512, z: -0.01692058}
+      rotation: {x: 0.15131573, y: -0.21870635, z: -0.13116322, w: 0.95502216}
+      scale: {x: 1, y: 1, z: 1}
+    - name: b_Pinky_02_L
+      parentName: b_Pinky_03_L
+      position: {x: -0.04003456, y: -0.000000007982308, z: 4.425056e-10}
+      rotation: {x: 0.02152229, y: -0.13589936, z: -0.4337757, w: 0.89045316}
+      scale: {x: 1, y: 1, z: 1}
+    - name: b_Pinky_01_L
+      parentName: b_Pinky_02_L
+      position: {x: -0.01919207, y: -1.862646e-10, z: 0.0000000018544919}
+      rotation: {x: -0.0019405002, y: -0.07541158, z: 0.014045372, w: 0.9970517}
+      scale: {x: 1, y: 1, z: 1}
+    - name: b_Middle_03_L
+      parentName: b_Hand_L
+      position: {x: -0.1939771, y: -0.0128908595, z: -0.01136118}
+      rotation: {x: 0.026205244, y: -0.14301296, z: 0.011673265, w: 0.98930496}
+      scale: {x: 1, y: 1, z: 1}
+    - name: b_Middle_02_L
+      parentName: b_Middle_03_L
+      position: {x: -0.042861663, y: -0.000000008477364, z: 2.916022e-10}
+      rotation: {x: -0.027440144, y: -0.1316316, z: -0.006802541, w: 0.9908955}
+      scale: {x: 1, y: 1, z: 1}
+    - name: b_Middle_01_L
+      parentName: b_Middle_02_L
+      position: {x: -0.03395398, y: -1.676381e-10, z: 0.0000000065180887}
+      rotation: {x: 0.0012934664, y: -0.09651291, z: 0.0077805333, w: 0.9953005}
+      scale: {x: 1, y: 1, z: 1}
+    - name: b_Index03_L
+      parentName: b_Hand_L
+      position: {x: -0.19227658, y: -0.044307843, z: -0.01127709}
+      rotation: {x: -0.0037426625, y: -0.16531424, z: 0.046370707, w: 0.9851431}
+      scale: {x: 1, y: 1, z: 1}
+    - name: b_Index02_L
+      parentName: b_Index03_L
+      position: {x: -0.04290412, y: -0.0000000088775405, z: 4.0554368e-10}
+      rotation: {x: -0.0015984343, y: -0.099270195, z: -0.0055145076, w: 0.995044}
+      scale: {x: 1, y: 1, z: 1}
+    - name: b_Index01_L
+      parentName: b_Index02_L
+      position: {x: -0.02927576, y: 1.862624e-11, z: 0.000000003537857}
+      rotation: {x: 0.0018642442, y: -0.16618887, z: 0.009177169, w: 0.9860495}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,30 @@
+City park 
+This package contains a group of optimised foliage models, tileable textures and high quality sound of leafs on the wind.
+5 trees
+Bark texture 1k
+Branch with leafs texture 1k
+Tree01 6344 tris
+Tree02 7364 tris
+Tree03 2764 tris
+Tree04 2024 tris
+Tree05 4040 tris
+
+Bench 2 parts, 1k textures, 3876 tris
+Garbage can, 1k textures, 1062 tris
+Lamp, 1k textures, 1588 tris
+Big mirror, 1k textures, 480 tris
+Main object, 1k textures, 1264 tris
+Fence, 2 parts, 1k textures
+	Part01 1128 tris
+	Part02 60 tris
+Gate, 1k textuers, 1258 tris
+
+Sound of tree leafs, bitrate 246kbps
+
+1 texture of grass
+1 texture of flowers
+
+Ground textures
+Gravel 1k
+Grass 1k
+Dirt 1k

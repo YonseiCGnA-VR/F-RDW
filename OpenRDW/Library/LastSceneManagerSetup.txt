@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/OpenRDW/Scenes/OpenRDW Scene 1.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
